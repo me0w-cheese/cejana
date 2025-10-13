@@ -4,11 +4,11 @@ var UnminedMapProperties = {
     maxZoom: 2,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -6,
+    minRegionX: -11,
     minRegionZ: -19,
-    maxRegionX: 9,
-    maxRegionZ: 7,
-    worldName: "cejana map v1.3",
+    maxRegionX: 11,
+    maxRegionZ: 9,
+    worldName: "cejana 13/10/2025 17:16:27 – Copy",
     background: "",
     markers: new Array()
 }
