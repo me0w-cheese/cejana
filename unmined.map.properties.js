@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -19,
     maxRegionX: 11,
     maxRegionZ: 9,
-    worldName: "cejana 13/10/2025 17:16:27 – Copy",
+    worldName: "cejana map v1.4.1",
     background: "",
     markers: new Array()
 }
