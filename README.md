@@ -1,1 +1,2 @@
-map of the realm cejana, updated every month or so
+map of the realm cejana
+
